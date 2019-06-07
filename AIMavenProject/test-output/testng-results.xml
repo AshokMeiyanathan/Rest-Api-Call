@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2019-06-06T04:35:17Z" finished-at="2019-06-06T04:35:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2019-06-06T04:35:17Z" finished-at="2019-06-06T04:35:17Z">
+      <class name="com.qa.tests.DeomTest">
+        <test-method status="PASS" signature="minus()[pri:0, instance:com.qa.tests.DeomTest@2a5ca609]" name="minus" duration-ms="16" started-at="2019-06-06T00:35:17Z" finished-at="2019-06-06T00:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- minus -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.tests.DeomTest@2a5ca609]" name="sum" duration-ms="1" started-at="2019-06-06T00:35:17Z" finished-at="2019-06-06T00:35:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.tests.DeomTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
